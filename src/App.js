@@ -1,8 +1,12 @@
 import React from 'react'
-
+import Header from './components/Header'
 const App = () => {
   return (
-    <div>
+    <div >
+     
+      <div >
+      <Header />
+      </div>
       <p>HELLO AZSURE</p>
       <p>All is good</p>
       <p>For build and deploy</p>
