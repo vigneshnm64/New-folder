@@ -5,10 +5,9 @@ const App = () => {
   return (
     <div >
      
-      <div >
+      <div >y
       <Header />
       </div>
-      <p>HELLO AZSURE my world</p>
       <p>All is good</p>
       <p>For build and deploy</p>
       <p>For build trigger </p>
