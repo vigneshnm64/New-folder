@@ -8,7 +8,7 @@ const App = () => {
       <div >
       <Header />
       </div>
-      <p>HELLO AZSURE</p>
+      <p>HELLO AZSURE my world</p>
       <p>All is good</p>
       <p>For build and deploy</p>
       <p>For build trigger </p>
